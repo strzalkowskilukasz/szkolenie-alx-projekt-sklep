@@ -12,7 +12,6 @@ import java.util.Scanner;
 
 public class Menu {
 
-//    public long id = 0L;
 
     public void wyswietlMenu(){
 
