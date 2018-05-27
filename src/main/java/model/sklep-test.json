@@ -1,0 +1,22 @@
+
+{
+  "nazwa" : "amazon.com",
+  "produkty" : [
+  {
+    "typ" : "komputer",
+    "id" : 1,
+    "nazwa" : "komputer1",
+    "cena" : 222.50,
+    "marka": "Samsung",
+    "ram" : 32
+  },
+    {
+    "typ" : "dron",
+    "id" : 2,
+    "nazwa" : "dron1",
+    "cena" : 333,
+    "zasieg" : 200.50,
+    "czyMaKamere" : true
+    }
+]
+}

@@ -1,0 +1,25 @@
+{
+  "produkty" : [ {
+    "typ" : "komputer",
+    "nazwa" : "aaa",
+    "cena" : 2333,
+    "id" : 1,
+    "marka" : "bbb",
+    "ram" : 32
+  }, {
+    "typ" : "dron",
+    "nazwa" : "bbb",
+    "cena" : 32222,
+    "id" : 2,
+    "zasieg" : 3332.0,
+    "czyMaKamere" : false
+  }, {
+    "typ" : "komputer",
+    "nazwa" : "sasa",
+    "cena" : 233,
+    "id" : 1,
+    "marka" : "sasasa",
+    "ram" : 32
+  } ],
+  "nazwa" : "amazon.com"
+}
