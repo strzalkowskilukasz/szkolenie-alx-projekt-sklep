@@ -41,7 +41,7 @@ public class Menu {
             sklep = pliki.wczytaj();
         } catch (Exception e) {
             System.out.println("Blad odczytu, starujemy z pustym plikiem.");
-            e.printStackTrace();
+//            e.printStackTrace();
             sklep = new Sklep("amazon.com");
         }
 
